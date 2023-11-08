@@ -1,0 +1,42 @@
+{
+	"AU": {
+		"flag": "🇦🇺",
+		"name": "Australia"
+	},
+	"BR": {
+		"flag": "🇧🇷",
+		"name": "Brazil"
+	},
+	"DE": {
+		"flag": "🇩🇪",
+		"name": "Germany"
+	},
+	"FI": {
+		"flag": "🇫🇮",
+		"name": "Finland"
+	},
+	"FR": {
+		"flag": "🇫🇷",
+		"name": "France"
+	},
+	"JP": {
+		"flag": "🇯🇵",
+		"name": "Japan"
+	},
+	"PL": {
+		"flag": "🇵🇱",
+		"name": "Poland"
+	},
+	"SE": {
+		"flag": "🇸🇪",
+		"name": "Sweden"
+	},
+	"UK": {
+		"flag": "🇬🇧",
+		"name": "United Kingdom"
+	},
+	"US": {
+		"flag": "🇺🇸",
+		"name": "United States"
+	}
+}
