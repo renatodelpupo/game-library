@@ -37,7 +37,7 @@
 			</span>
 		{/if}
 
-		<div class="flag-list">
+		<div class="platform-list">
 			{#each game.platformsAvailable as platformAvailable}
 				<PlatformFlag
 					favorite={game.platformsFavorite.includes(platformAvailable)}
@@ -50,30 +50,33 @@
 
 <style>
 	.container {
-		border: 1px solid #fff;
+		background-color: #333;
+		border: 2px solid #ccc;
+		border-radius: 1rem;
+		display: flex;
+		flex-direction: column;
+		overflow: hidden;
 		position: relative;
 	}
 
 	.content {
 		display: flex;
 		flex-direction: column;
-		gap: 16px;
-		padding: 8px 16px 32px;
+		flex-grow: 1;
+		gap: 2rem;
+		justify-content: space-between;
+		padding: 1rem 1rem 1.5rem;
 	}
 
 	.country {
 		cursor: help;
-		font-size: 48px;
+		font-size: 2.5rem;
+		line-height: 0.75;
+		order: 2;
 		position: absolute;
-		right: -8px;
-		text-box-edge: cap alphabetic;
-		text-box-trim: both;
-		top: -8px;
-	}
-
-	.flag-list {
-		display: inline-flex;
-		gap: 16px;
+		right: 0.5rem;
+		text-align: right;
+		top: 0.5rem;
 	}
 
 	.game-name {
@@ -81,7 +84,9 @@
 	}
 
 	.image {
+		aspect-ratio: 16/9;
 		max-width: 100%;
+		width: 100%;
 	}
 
 	.image-placeholder {
@@ -94,6 +99,12 @@
 		column-gap: 8px;
 		display: flex;
 		flex-wrap: wrap;
+		grid-column: span 2;
+	}
+
+	.platform-list {
+		display: inline-flex;
+		gap: 1rem;
 	}
 
 	.players {

@@ -9,10 +9,8 @@
 	const platform: Platform = platforms[name as keyof typeof platforms];
 </script>
 
-<div class="container">
-	<span class="flag" style:background={platform.color}>
-		{name}
-	</span>
+<div class="platform" style:background={platform.color}>
+	{name}
 
 	{#if favorite}
 		<span class="star"> ⭐️ </span>
@@ -20,19 +18,13 @@
 </div>
 
 <style>
-	.container {
+	.platform {
+		align-items: center;
+		border: 2px solid #ccc;
+		border-radius: 0.25rem;
 		display: inline-flex;
-		position: relative;
-		outline: 1px solid white;
-	}
-
-	.flag {
+		gap: 0.25rem;
 		padding: 4px 8px;
-	}
-
-	.star {
-		position: absolute;
-		right: -0.75rem;
-		top: -1rem;
+		position: relative;
 	}
 </style>

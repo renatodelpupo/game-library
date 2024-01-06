@@ -14,7 +14,7 @@
 	.list {
 		display: grid;
 		grid-template-columns: repeat(2, minmax(0, 1fr));
-		gap: 32px 16px;
-		padding: 16px;
+		gap: 1.5rem 1rem;
+		padding: 1rem;
 	}
 </style>
