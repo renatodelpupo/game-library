@@ -5,10 +5,14 @@ export type Country = {
 
 export type Game = {
 	country: string;
+	developer?: string;
+	finished?: boolean;
+	hide?: boolean;
 	name: string;
 	platformsAvailable: Array<string>;
 	platformsFavorite: Array<string>;
 	players: number;
+	stars?: number;
 	thumbnail: string;
 };
 
