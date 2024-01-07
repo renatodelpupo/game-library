@@ -1,8 +1,10 @@
 {
 	"PC": {
-		"color": "#000000"
+		"color": "#000000",
+		"label": "PC"
 	},
 	"SWITCH": {
-		"color": "#e60012"
+		"color": "#e60012",
+		"label": "Switch"
 	}
 }

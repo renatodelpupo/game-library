@@ -1,8 +1,17 @@
-<script>
+<script lang="ts">
+	import games from '../api/games.json';
 	import CardList from '../components/CardList.svelte';
+	import Filters from '../components/Filters.svelte';
+
+	$: gamesToDisplay = games.filter(({ hide }) => !hide);
+
+	const handleDisplayedGamesUpdate = (event: any) => {
+		gamesToDisplay = event.detail.gamesToDisplay;
+	};
 </script>
 
-<CardList />
+<Filters on:updateDisplayedGames={handleDisplayedGamesUpdate} />
+<CardList games={gamesToDisplay} />
 
 <style>
 	:global(html) {

@@ -1,11 +1,13 @@
 <script lang="ts">
-	import games from '../api/games.json';
+	import type { Game } from '../lib/types';
 
 	import Card from './Card.svelte';
+
+	export let games: Game[] = [];
 </script>
 
 <div class="list">
-	{#each games as game}
+	{#each games as game (game.name)}
 		<Card {game} />
 	{/each}
 </div>

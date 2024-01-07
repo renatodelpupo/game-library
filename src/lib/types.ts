@@ -12,6 +12,11 @@ export type Game = {
 	thumbnail: string;
 };
 
+export type Option = {
+	label: string;
+	value: string;
+};
+
 export type Platform = {
 	color: string;
 };
