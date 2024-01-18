@@ -40,8 +40,8 @@
 		<div class="platform-list">
 			{#each game.platformsAvailable as platformAvailable}
 				<PlatformFlag
-					favorite={game.platformsFavorite.includes(platformAvailable)}
 					name={platformAvailable}
+					purchased={!!game.purchased?.includes(platformAvailable)}
 				/>
 			{/each}
 		</div>

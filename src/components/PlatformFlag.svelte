@@ -1,23 +1,24 @@
 <script lang="ts">
-	import type { Platform } from '../lib/types';
+	import type { Platform, PlatformEnum } from '../lib/types';
 
 	import platforms from '../api/platforms.json';
 
-	export let favorite: boolean;
-	export let name: string;
+	export let name: PlatformEnum;
+	export let purchased: boolean;
 
-	const platform: Platform = platforms[name as keyof typeof platforms];
+	const platform: Platform = platforms[name as PlatformEnum];
 </script>
 
-<div class="platform" style:background={platform.color}>
+<div class="platform" class:not-purchased={!purchased} style:background={platform.color}>
 	{name}
-
-	{#if favorite}
-		<span class="star"> ⭐️ </span>
-	{/if}
 </div>
 
 <style>
+	.not-purchased {
+		opacity: 0.25;
+		text-decoration: line-through;
+	}
+
 	.platform {
 		align-items: center;
 		border: 2px solid #ccc;

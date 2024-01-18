@@ -5,14 +5,14 @@ export type Country = {
 
 export type Game = {
 	country: string;
-	developer?: string;
-	finished?: boolean;
-	hide?: boolean;
+	developer: string;
+	hide: boolean;
 	name: string;
 	platformsAvailable: Array<string>;
-	platformsFavorite: Array<string>;
 	players: number;
-	stars?: number;
+	purchased: Array<string>;
+	stars: number;
+	status: string;
 	thumbnail: string;
 };
 
@@ -23,4 +23,10 @@ export type Option = {
 
 export type Platform = {
 	color: string;
+	label: string;
 };
+
+export enum PlatformEnum {
+	PC = 'PC',
+	SWITCH = 'SWITCH'
+}

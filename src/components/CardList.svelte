@@ -18,5 +18,9 @@
 		grid-template-columns: repeat(2, minmax(0, 1fr));
 		gap: 1.5rem 1rem;
 		padding: 1rem;
+
+		@media (min-width: 1199px) {
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+		}
 	}
 </style>
