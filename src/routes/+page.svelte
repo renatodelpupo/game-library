@@ -10,7 +10,9 @@
 	};
 </script>
 
-<Filters on:updateDisplayedGames={handleDisplayedGamesUpdate} />
+<div class="filters-wrapper">
+	<Filters on:updateDisplayedGames={handleDisplayedGamesUpdate} />
+</div>
 <CardList games={gamesToDisplay} />
 
 <style>
@@ -28,5 +30,9 @@
 		font-family: sans-serif;
 		margin: 0;
 		padding: 0;
+	}
+
+	.filters-wrapper {
+		overflow: auto;
 	}
 </style>

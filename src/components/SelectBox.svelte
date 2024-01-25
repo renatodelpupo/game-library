@@ -38,7 +38,7 @@
 	.select-wrapper {
 		max-width: 100%;
 		position: relative;
-		width: 350px;
+		width: 7.5rem;
 
 		&::after {
 			--size: 0.3rem;

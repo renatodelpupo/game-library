@@ -4,6 +4,7 @@
 	import games from '../api/games.json';
 	import platforms from '../api/platforms.json';
 	import type { Option } from '../lib/types';
+	import Checkbox from './Checkbox.svelte';
 	import SelectBox from './SelectBox.svelte';
 
 	const dispatch = createEventDispatcher();
@@ -53,13 +54,16 @@
 	}));
 
 	$: gamesToDisplay = games.filter(
-		({ country, hide, players, purchased, status }) =>
+		({ country, hide, players, platformsAvailable, purchased, status }) =>
 			!hide &&
+			(!purchasedOnly ||
+				(selectedPlatform ? purchased.includes(selectedPlatform) : purchased.length >= 1)) &&
 			(!selectedCountry || country === selectedCountry) &&
 			(!selectedPlayer || players >= Number(selectedPlayer)) &&
-			(!selectedPlatform || purchased.includes(selectedPlatform)) &&
+			(!selectedPlatform || platformsAvailable.includes(selectedPlatform)) &&
 			(!selectedStatus || status === selectedStatus)
 	);
+	$: purchasedOnly = false;
 	$: selectedCountry = '';
 	$: selectedPlatform = '';
 	$: selectedPlayer = '';
@@ -68,6 +72,10 @@
 	$: {
 		dispatch('updateDisplayedGames', { gamesToDisplay });
 	}
+
+	const checkPurchased = (event: CustomEvent<InputEvent>) => {
+		purchasedOnly = !!event.detail;
+	};
 </script>
 
 <div class="filters">
@@ -75,14 +83,17 @@
 	<SelectBox options={countryOptions} type="Country" bind:selectedOption={selectedCountry} />
 	<SelectBox options={platformOptions} type="Platform" bind:selectedOption={selectedPlatform} />
 	<SelectBox options={statusOptions} type="Status" bind:selectedOption={selectedStatus} />
+	<Checkbox label="Purchased" on:updateCheckbox={checkPurchased} />
 </div>
 
 <style>
 	.filters {
 		align-items: center;
-		display: flex;
+		box-sizing: border-box;
+		display: inline-flex;
 		gap: 1rem;
 		justify-content: center;
+		min-width: 100%;
 		padding: 1rem;
 	}
 </style>
