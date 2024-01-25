@@ -39,10 +39,12 @@
 
 		<div class="platform-list">
 			{#each game.platformsAvailable as platformAvailable}
-				<PlatformFlag
-					name={platformAvailable}
-					purchased={!!game.purchased?.includes(platformAvailable)}
-				/>
+				<a href={game.url?.[platformAvailable]} target="_blank" title="Go to store page">
+					<PlatformFlag
+						name={platformAvailable}
+						purchased={!!game.purchased?.includes(platformAvailable)}
+					/>
+				</a>
 			{/each}
 		</div>
 	</div>

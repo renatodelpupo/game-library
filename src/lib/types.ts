@@ -14,6 +14,7 @@ export type Game = {
 	stars: number;
 	status: string;
 	thumbnail: string;
+	url: object;
 };
 
 export type Option = {

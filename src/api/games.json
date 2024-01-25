@@ -9,11 +9,15 @@
 		"purchased": ["PC"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/a/alex-kidd-in-miracle-world-dx-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/a/alex-kidd-in-miracle-world-dx-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1333470/Alex_Kidd_in_Miracle_World_DX/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/alex-kidd-in-miracle-world-dx-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Aoca Game Lab",
 		"hide": false,
 		"name": "ARIDA: Backland's Awakening",
 		"platformsAvailable": ["PC"],
@@ -21,11 +25,59 @@
 		"purchased": ["PC"],
 		"stars": 1,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/907760/header.jpg?t=1697128235"
+		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/907760/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/907760/ARIDA_Backlands_Awakening/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Aoca Game Lab",
+		"hide": false,
+		"name": "ARIDA 2: Rise of the Brave",
+		"platformsAvailable": ["PC"],
+		"players": 1,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-started-stopped",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1212030/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1212030/ARIDA_2_Rise_of_the_Brave/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Duaik Entretenimento (SP)",
+		"hide": false,
+		"name": "Aritana and the Harpy's Feather",
+		"platformsAvailable": ["PC"],
+		"players": 1,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-started-stopped",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/314360/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/314360/Aritana_and_the_Harpys_Feather/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Duaik Entretenimento (SP)",
+		"hide": false,
+		"name": "Aritana and the Twin Masks",
+		"platformsAvailable": ["PC"],
+		"players": 1,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-applicable",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1556040/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1556040/Aritana_and_the_Twin_Masks/"
+		}
 	},
 	{
 		"country": "FR",
-		"developer": "",
+		"developer": "Gameloft",
 		"hide": false,
 		"name": "Asphalt Legends",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -33,7 +85,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000014952/834c27609a812ab90477fcda48b5a8acf079dddfe9e8e9502288666c1172054f"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000014952/834c27609a812ab90477fcda48b5a8acf079dddfe9e8e9502288666c1172054f",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1815780/Asphalt_9_Legends/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/asphalt-9-legends-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -45,7 +101,10 @@
 		"purchased": ["PC"],
 		"stars": 2,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1990740/header.jpg?t=1699729494"
+		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1990740/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1990740/Barro_GT/"
+		}
 	},
 	{
 		"country": "BR",
@@ -57,7 +116,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000013874/2a3352cd4bcdeaad80fd887d84910380619ddbf4d277b74f7380bea7512a3183"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000013874/2a3352cd4bcdeaad80fd887d84910380619ddbf4d277b74f7380bea7512a3183",
+		"url": {
+			"PC": "https://store.steampowered.com/app/609110/Blazing_Chrome/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/blazing-chrome-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -69,11 +132,14 @@
 		"purchased": ["PC"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000064535/00754472aea773e379cab4ac7af208d4e008968a4ec4b9142dfbf185a3463306"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000064535/00754472aea773e379cab4ac7af208d4e008968a4ec4b9142dfbf185a3463306",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2287760/Brave_Soldier__Invasion_of_Cyborgs/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "IdunaSoft (Vitória/ES)",
 		"hide": false,
 		"name": "Bricky to Me",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -81,7 +147,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/b/bricky-to-me-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/b/bricky-to-me-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1433870/Bricky_to_Me/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/bricky-to-me-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -93,7 +163,10 @@
 		"purchased": ["PC"],
 		"stars": 4,
 		"status": "in-progress",
-		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2592040/header.jpg?t=1698243338"
+		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2592040/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2592040/Buddy_and_Friends_on_Halloween/"
+		}
 	},
 	{
 		"country": "",
@@ -105,7 +178,10 @@
 		"purchased": ["SWITCH"],
 		"stars": 2,
 		"status": "not-applicable",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/chess-knights-viking-lands-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/chess-knights-viking-lands-switch/hero",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/chess-knights-viking-lands-switch/"
+		}
 	},
 	{
 		"country": "",
@@ -117,7 +193,11 @@
 		"purchased": ["PC"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/crash-bandicoot-n-sane-trilogy-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/crash-bandicoot-n-sane-trilogy-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/731490/Crash_Bandicoot_N_Sane_Trilogy/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/crash-bandicoot-n-sane-trilogy-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -129,11 +209,14 @@
 		"purchased": ["PC"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000043719/787ad227247afc00dc42f3e81a33076e27e3e64bfcfc78e1401acf4397219bc7"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000043719/787ad227247afc00dc42f3e81a33076e27e3e64bfcfc78e1401acf4397219bc7",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1595180/Crazy_Gravity/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Long Hat Hourse (BH/MG)",
 		"hide": false,
 		"name": "Dandara",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -141,7 +224,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000004800/1d561ffd7bfa532e60fab66b39d3f8aa290975b8b5f7dc3f37497b5c47574397"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000004800/1d561ffd7bfa532e60fab66b39d3f8aa290975b8b5f7dc3f37497b5c47574397",
+		"url": {
+			"PC": "https://store.steampowered.com/app/612390/Dandara_Trials_of_Fear_Edition/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dandara-trials-of-fear-edition-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -153,7 +240,11 @@
 		"purchased": ["PC"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/d/dandy-ace-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/d/dandy-ace-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1037130/Dandy_Ace/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dandy-ace-switch/"
+		}
 	},
 	{
 		"country": "AU",
@@ -165,23 +256,31 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/d/death-squared-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/d/death-squared-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/471810/Death_Squared/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/death-squared-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Dininho",
 		"hide": false,
 		"name": "Dininho Adventures",
-		"platformsAvailable": ["PC"],
+		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 1,
 		"purchased": ["PC"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/d/dininho-adventures-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/d/dininho-adventures-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1577260/Dininho_Adventures_Definitive_Edition/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dininho-adventures-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Dininho",
 		"hide": false,
 		"name": "Dininho Space Adventures",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -189,11 +288,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/d/dininho-space-adventure-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/d/dininho-space-adventure-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1616870/Dininho_Space_Adventure/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dininho-space-adventure-switch/"
+		}
 	},
 	{
-		"country": "",
-		"developer": "",
+		"country": "FR",
+		"developer": "Gameloft",
 		"hide": false,
 		"name": "Disney Speedstorm",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -201,11 +304,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000038418/3699f501c928d08a953bbfa2164c4b22878b34fb31d0cafdc80fbc0630bd98a0"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000038418/3699f501c928d08a953bbfa2164c4b22878b34fb31d0cafdc80fbc0630bd98a0",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1537830/Disney_Speedstorm/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/disney-speedstorm-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Pocket Trap (SP)",
 		"hide": false,
 		"name": "Dodgeball Academia",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -213,7 +320,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000040699/98cb32646b2517423fd853890cb03b7220d807bea5c717fd2fe5b828285a6e90"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000040699/98cb32646b2517423fd853890cb03b7220d807bea5c717fd2fe5b828285a6e90",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1422420/Dodgeball_Academia/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dodgeball-academia-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -225,7 +336,10 @@
 		"purchased": ["PC"],
 		"stars": 2,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/917290/header.jpg?t=1603985129"
+		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/917290/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/917290/Duck_Souls/"
+		}
 	},
 	{
 		"country": "",
@@ -237,11 +351,14 @@
 		"purchased": ["PC"],
 		"stars": 5,
 		"status": "finished",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/791470/header.jpg?t=1574539650"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/791470/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/791470/DYO/"
+		}
 	},
 	{
-		"country": "",
-		"developer": "",
+		"country": "UK",
+		"developer": "Mediatonic",
 		"hide": false,
 		"name": "Fall Guys",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -249,7 +366,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000042975/9aef10639dd9ed52d474d26581f335c98ca723fc1c2c833a6a05a960d384d28c"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000042975/9aef10639dd9ed52d474d26581f335c98ca723fc1c2c833a6a05a960d384d28c",
+		"url": {
+			"PC": "https://store.epicgames.com/br/p/fall-guys",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/fall-guys-switch/"
+		}
 	},
 	{
 		"country": "US",
@@ -261,19 +382,57 @@
 		"purchased": ["PC"],
 		"stars": 5,
 		"status": "finished",
-		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1695060909"
+		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "Aquiris Game Studio (Porto Alegre/RS)",
+		"developer": "Flux Games",
 		"hide": false,
-		"name": "Horizon Chase",
+		"name": "GUTS",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-started-stopped",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/682810/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/682810/GUTS/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Aquiris Game Studio (PoA/RS)",
+		"hide": false,
+		"name": "Horizon Chase Turbo",
 		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 4,
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000011410/949bd0bd5136e2445f8d91e8ebe14dff8b8c5929b38915e2bae3a60afbea10d4"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000011410/949bd0bd5136e2445f8d91e8ebe14dff8b8c5929b38915e2bae3a60afbea10d4",
+		"url": {
+			"PC": "https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/horizon-chase-turbo-switch/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Aquiris Game Studio (Porto Alegre/RS)",
+		"hide": false,
+		"name": "Horizon Chase 2",
+		"platformsAvailable": ["PC", "SWITCH"],
+		"players": 4,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-started-stopped",
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000061200/457898b003cb2cf99e60226bbf140c16473c592e6fc8b5cc437e6604ff1b0788",
+		"url": {
+			"PC": "https://store.epicgames.com/br/p/horizon-chase-2",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/horizon-chase-2-switch/"
+		}
 	},
 	{
 		"country": "SE",
@@ -285,11 +444,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/h/huntdown-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/h/huntdown-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/598550/HUNTDOWN/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/huntdown-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Mens Sana Interactive",
 		"hide": false,
 		"name": "Island Cities",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -297,11 +460,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000059681/da8e6e8554c1cc13723f3e62e79d3482ef707422a6570475d30793797863f203"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000059681/da8e6e8554c1cc13723f3e62e79d3482ef707422a6570475d30793797863f203",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2093900/Island_Cities__Jigsaw_Puzzle/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/island-cities-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "PixelHive",
 		"hide": false,
 		"name": "Kaze and the Wild Masks",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -309,11 +476,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000022296/91009ca25a0428271d6765ea02d796b533e0d9735430b40710c9219574131418"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000022296/91009ca25a0428271d6765ea02d796b533e0d9735430b40710c9219574131418",
+		"url": {
+			"PC": "https://store.steampowered.com/app/829280/Kaze_and_the_Wild_Masks/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/kaze-and-the-wild-masks-switch/"
+		}
 	},
 	{
 		"country": "JP",
-		"developer": "",
+		"developer": "Nintendo",
 		"hide": false,
 		"name": "Mario Party Superstars",
 		"platformsAvailable": ["SWITCH"],
@@ -321,11 +492,14 @@
 		"purchased": ["SWITCH"],
 		"stars": 4,
 		"status": "not-applicable",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mario-party-superstars-switch/"
+		}
 	},
 	{
 		"country": "US",
-		"developer": "",
+		"developer": "Mojang",
 		"hide": false,
 		"name": "Minecraft",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -333,7 +507,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70070000016597/4dc8ab1f09ced6fb2953b2caedd978c1f23df33b62305bcf3140308962073d57"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70070000016597/4dc8ab1f09ced6fb2953b2caedd978c1f23df33b62305bcf3140308962073d57",
+		"url": {
+			"PC": "https://www.xbox.com/it-it/games/store/minecraft/9mvxmvt8zkwc",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/minecraft-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -345,19 +523,27 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/m/monica-e-a-guarda-dos-coelhos-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/m/monica-e-a-guarda-dos-coelhos-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/925900/Monica_e_a_Guarda_dos_Coelhos/",
+			"SWITCH": "https://www.nintendo.com/us/store/products/monica-e-a-guarda-dos-coelhos-switch/"
+		}
 	},
 	{
 		"country": "US",
-		"developer": "",
+		"developer": "NetherRealm Studios",
 		"hide": false,
 		"name": "Mortal Kombat 11",
-		"platformsAvailable": ["SWITCH"],
+		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 2,
 		"purchased": ["SWITCH"],
 		"stars": 5,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/m/mortal-kombat-11-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/m/mortal-kombat-11-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/976310/Mortal_Kombat11/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mortal-kombat-11-switch/"
+		}
 	},
 	{
 		"country": "PL",
@@ -369,10 +555,14 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/m/mousecraft-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/m/mousecraft-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/252750/MouseCraft/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mousecraft-switch/"
+		}
 	},
 	{
-		"country": "",
+		"country": "US",
 		"developer": "Player First Games",
 		"hide": false,
 		"name": "MultiVersus",
@@ -381,7 +571,10 @@
 		"purchased": ["PC"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1818750/header.jpg?t=1680624056"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1818750/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1818750/MultiVersus/"
+		}
 	},
 	{
 		"country": "BR",
@@ -393,11 +586,14 @@
 		"purchased": ["PC"],
 		"stars": 2,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/696140/header.jpg?t=1691087443"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/696140/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/696140/No_Heroes_Here/"
+		}
 	},
 	{
 		"country": "FI",
-		"developer": "",
+		"developer": "Cornfox e Brothers",
 		"hide": false,
 		"name": "Oceanhorn - Monster of Uncharted Seas",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -405,11 +601,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/o/oceanhorn-monster-of-uncharted-seas-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/o/oceanhorn-monster-of-uncharted-seas-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/339200/Oceanhorn_Monster_of_Uncharted_Seas/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/oceanhorn-monster-of-uncharted-seas-switch/"
+		}
 	},
 	{
 		"country": "UK",
-		"developer": "",
+		"developer": "Ghost Town Games",
 		"hide": false,
 		"name": "Overcooked! All You Can Eat",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -417,11 +617,30 @@
 		"purchased": ["SWITCH"],
 		"stars": 4,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000029237/16af19f777a4f7f935fa0d18ed49f5c32b3571b8a94e8c3af0987e9211526e7e"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000029237/16af19f777a4f7f935fa0d18ed49f5c32b3571b8a94e8c3af0987e9211526e7e",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/overcooked-all-you-can-eat-switch/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Statera Studio",
+		"hide": false,
+		"name": "Pocket Bravery",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-started-stopped",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1555150/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1555150/Pocket_Bravery/"
+		}
 	},
 	{
 		"country": "JP",
-		"developer": "",
+		"developer": "TiMi Studio Group",
 		"hide": false,
 		"name": "Pokemon Unite",
 		"platformsAvailable": ["SWITCH"],
@@ -429,7 +648,10 @@
 		"purchased": ["SWITCH"],
 		"stars": 3,
 		"status": "not-applicable",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000043292/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000043292/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/pokemon-unite-switch/"
+		}
 	},
 	{
 		"country": "PL",
@@ -441,11 +663,14 @@
 		"purchased": ["SWITCH"],
 		"stars": 0,
 		"status": "not-applicable",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000068267/11d4a384f7d7a905c1c6679d289ac0f9a7f15aa939199b10289f006ab938e065"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000068267/11d4a384f7d7a905c1c6679d289ac0f9a7f15aa939199b10289f006ab938e065",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/pool-together-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "Mito Games",
+		"developer": "Mito Games (Vitória/ES)",
 		"hide": false,
 		"name": "Pop Some Eyes",
 		"platformsAvailable": ["PC"],
@@ -453,7 +678,10 @@
 		"purchased": ["PC"],
 		"stars": 1,
 		"status": "not-applicable",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2314950/header.jpg?t=1691515973"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2314950/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2314950/Pop_Some_Eyes/"
+		}
 	},
 	{
 		"country": "US",
@@ -465,10 +693,13 @@
 		"purchased": ["PC"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg?t=1699003695"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/400/Portal/"
+		}
 	},
 	{
-		"country": "",
+		"country": "BR",
 		"developer": "LightUP",
 		"hide": false,
 		"name": "Prehistoric Dude",
@@ -477,7 +708,10 @@
 		"purchased": ["PC"],
 		"stars": 2,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1373740/header.jpg?t=1693855480"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1373740/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1373740/Prehistoric_Dude/"
+		}
 	},
 	{
 		"country": "BR",
@@ -489,11 +723,14 @@
 		"purchased": ["PC"],
 		"stars": 3,
 		"status": "in-progress",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/849210/header.jpg?t=1700243483"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/849210/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/849210/Raccoo_Venture/"
+		}
 	},
 	{
 		"country": "FR",
-		"developer": "",
+		"developer": "Ubisoft",
 		"hide": false,
 		"name": "Rayman Legends",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -501,7 +738,11 @@
 		"purchased": ["SWITCH"],
 		"stars": 5,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000001017/7075b9de20b7c835325dd28d4a9dd9e4e1cf58d3aa9339ced81100933902ee31"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000001017/7075b9de20b7c835325dd28d4a9dd9e4e1cf58d3aa9339ced81100933902ee31",
+		"url": {
+			"PC": "https://store.steampowered.com/app/242550/Rayman_Legends/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/rayman-legends-definitive-edition-switch/"
+		}
 	},
 	{
 		"country": "US",
@@ -513,7 +754,25 @@
 		"purchased": ["PC"],
 		"stars": 5,
 		"status": "in-progress",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1695140956"
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+		}
+	},
+	{
+		"country": "BR",
+		"developer": "Rogue Snail",
+		"hide": false,
+		"name": "Relic Hunters Legend",
+		"platformsAvailable": ["PC"],
+		"players": 1,
+		"purchased": [],
+		"stars": 0,
+		"status": "not-applicable",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/633080/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/633080/Relic_Hunters_Legend/"
+		}
 	},
 	{
 		"country": "BR",
@@ -525,11 +784,14 @@
 		"purchased": ["PC"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000028048/739402a5215664929a2d18f26b05935935e1c97b1355a7142e85fc05cb7a868a"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000028048/739402a5215664929a2d18f26b05935935e1c97b1355a7142e85fc05cb7a868a",
+		"url": {
+			"PC": "https://store.steampowered.com/app/382490/Relic_Hunters_Zero_Remix/"
+		}
 	},
 	{
 		"country": "US",
-		"developer": "",
+		"developer": "Psyonix",
 		"hide": true,
 		"name": "Rocket League",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -537,11 +799,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000000457/d817e8f61be9883bf788d97f6a4b5b1b8e3985b5548cedd74c51aa630b0cfc3d"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000000457/d817e8f61be9883bf788d97f6a4b5b1b8e3985b5548cedd74c51aa630b0cfc3d",
+		"url": {
+			"PC": "https://store.epicgames.com/br/p/rocket-league",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/rocket-league-switch/"
+		}
 	},
 	{
 		"country": "DE",
-		"developer": "",
+		"developer": "Klonk Games",
 		"hide": false,
 		"name": "Shift Happens",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -549,23 +815,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000009773/9e573a224853ee2092b3a1443d7cd6f92cb0d00d4e6422c7ea195aac156a45b0"
-	},
-	{
-		"country": "US",
-		"developer": "",
-		"hide": false,
-		"name": "Sky: Children of the Light",
-		"platformsAvailable": ["SWITCH"],
-		"players": 1,
-		"purchased": ["SWITCH"],
-		"stars": 0,
-		"status": "not-applicable",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000028614/f032bc5938086021a073524101d095b4e7465fb2500a6dee39753321a69a10db"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000009773/9e573a224853ee2092b3a1443d7cd6f92cb0d00d4e6422c7ea195aac156a45b0",
+		"url": {
+			"PC": "https://store.steampowered.com/app/359840/Shift_Happens/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/shift-happens-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Double Dash Studios",
 		"hide": false,
 		"name": "Sky Racket",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -573,7 +831,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/sky-racket-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/sky-racket-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/994500/Sky_Racket/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/sky-racket-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -585,7 +847,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/s/songs-for-a-hero-definitive-edition-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/s/songs-for-a-hero-definitive-edition-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/389170/Songs_for_a_Hero__Definitive_Edition/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/songs-for-a-hero-definitive-edition-switch/"
+		}
 	},
 	{
 		"country": "UK",
@@ -597,7 +863,10 @@
 		"purchased": ["PC"],
 		"stars": 4,
 		"status": "not-started-stopped",
-		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212480/header.jpg?t=1648829972"
+		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212480/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/"
+		}
 	},
 	{
 		"country": "JP",
@@ -609,11 +878,15 @@
 		"purchased": ["PC"],
 		"stars": 3,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000069430/20a06bf1886558538728f46bf4b3bae2875e7d371d3b0d2b3bbf6ea2302f7668"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000069430/20a06bf1886558538728f46bf4b3bae2875e7d371d3b0d2b3bbf6ea2302f7668",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2022670/SONIC_SUPERSTARS/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/sonic-superstars-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Burning Goat Studio (PoA/RS)",
 		"hide": false,
 		"name": "Spooky Chase",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -621,11 +894,15 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 5,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/spooky-chase-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/spooky-chase-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1286670/Spooky_Chase/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/spooky-chase-switch/"
+		}
 	},
 	{
 		"country": "JP",
-		"developer": "",
+		"developer": "Konami",
 		"hide": false,
 		"name": "Super Bomberman R",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -633,7 +910,26 @@
 		"purchased": ["SWITCH"],
 		"stars": 5,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000000116/f14813cb385dcd41053eef7c601e5007d1ddf4aa3375aef50922a4cc6d20b54f"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000000116/f14813cb385dcd41053eef7c601e5007d1ddf4aa3375aef50922a4cc6d20b54f",
+		"url": {
+			"PC": "https://store.steampowered.com/app/702700/Super_Bomberman_R/",
+			"SWITCH": "https://www.nintendo.com/us/store/products/super-bomberman-r-switch/"
+		}
+	},
+	{
+		"country": "JP",
+		"developer": "Nintendo",
+		"hide": false,
+		"name": "Super Mario World",
+		"platformsAvailable": ["SWITCH"],
+		"players": 0,
+		"purchased": ["SWITCH"],
+		"stars": 5,
+		"status": "not-applicable",
+		"thumbnail": "https://fs-prod-cdn.nintendo-europe.com/media/images/06_screenshots/games_5/virtual_console_wii_u_3/wiiuvc_supermarioworld/WiiUVC_SuperMarioWorld_01.bmp",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+		}
 	},
 	{
 		"country": "BR",
@@ -645,11 +941,15 @@
 		"purchased": [],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000056182/1838629b054db47b0c0d2d81bd318c05dbbe724f0dc09b9eaa7c8aa06c2a5dab"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000056182/1838629b054db47b0c0d2d81bd318c05dbbe724f0dc09b9eaa7c8aa06c2a5dab",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1942010/Vengeful_Guardian_Moonrider/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/vengeful-guardian-moonrider-switch/"
+		}
 	},
 	{
 		"country": "BR",
-		"developer": "",
+		"developer": "Mito Games (Vitória/ES)",
 		"hide": false,
 		"name": "Wardogs: Red's Return",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -657,7 +957,11 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 3,
 		"status": "in-progress",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/w/war-dogs-reds-return-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/w/war-dogs-reds-return-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1247160/WarDogs_Reds_Return/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/war-dogs-reds-return-switch/"
+		}
 	},
 	{
 		"country": "FR",
@@ -669,6 +973,10 @@
 		"purchased": ["PC", "SWITCH"],
 		"stars": 0,
 		"status": "not-started-stopped",
-		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/y/young-souls-switch/hero"
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/en_US/games/switch/y/young-souls-switch/hero",
+		"url": {
+			"PC": "https://store.steampowered.com/app/985900/Young_Souls/",
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/young-souls-switch/"
+		}
 	}
 ]
