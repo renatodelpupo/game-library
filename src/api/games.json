@@ -78,7 +78,7 @@
 	{
 		"country": "FR",
 		"developer": "Gameloft",
-		"hide": false,
+		"hide": true,
 		"name": "Asphalt Legends",
 		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 4,
@@ -171,7 +171,7 @@
 	{
 		"country": "",
 		"developer": "",
-		"hide": false,
+		"hide": true,
 		"name": "Chess Knights: Viking Lands",
 		"platformsAvailable": ["SWITCH"],
 		"players": 1,
@@ -181,6 +181,21 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/chess-knights-viking-lands-switch/hero",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/chess-knights-viking-lands-switch/"
+		}
+	},
+	{
+		"country": "JP",
+		"developer": "Nintendo",
+		"hide": false,
+		"name": "Clubhouse Games™: 51 Worldwide Classics",
+		"platformsAvailable": ["SWITCH"],
+		"players": 4,
+		"purchased": ["SWITCH"],
+		"stars": 5,
+		"status": "not-applicable",
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/clubhouse-games-51-worldwide-classics-switch/hero",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/clubhouse-games-51-worldwide-classics-switch/"
 		}
 	},
 	{
@@ -297,7 +312,7 @@
 	{
 		"country": "FR",
 		"developer": "Gameloft",
-		"hide": false,
+		"hide": true,
 		"name": "Disney Speedstorm",
 		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 2,
@@ -498,6 +513,21 @@
 		}
 	},
 	{
+		"country": "JP",
+		"developer": "Nintendo",
+		"hide": false,
+		"name": "Mario Kart 8 Deluxe",
+		"platformsAvailable": ["SWITCH"],
+		"players": 4,
+		"purchased": ["SWITCH"],
+		"stars": 4,
+		"status": "not-applicable",
+		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
+		"url": {
+			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mario-kart-8-deluxe-switch/"
+		}
+	},
+	{
 		"country": "US",
 		"developer": "Mojang",
 		"hide": false,
@@ -610,7 +640,7 @@
 	{
 		"country": "UK",
 		"developer": "Ghost Town Games",
-		"hide": false,
+		"hide": true,
 		"name": "Overcooked! All You Can Eat",
 		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 4,
