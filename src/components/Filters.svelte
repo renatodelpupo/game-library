@@ -16,6 +16,10 @@
 
 	const playersOptions: Option[] = [
 		{
+			label: '1',
+			value: '1'
+		},
+		{
 			label: '2+',
 			value: '2'
 		},
@@ -53,13 +57,21 @@
 		value
 	}));
 
+	const hasSufficientPlayers = (target: number, total: number) => {
+		if (target === 1) {
+			return target === total;
+		}
+
+		return target <= total;
+	};
+
 	$: gamesToDisplay = games.filter(
 		({ country, hide, players, platformsAvailable, purchased, status }) =>
 			!hide &&
 			(!purchasedOnly ||
 				(selectedPlatform ? purchased.includes(selectedPlatform) : purchased.length >= 1)) &&
 			(!selectedCountry || country === selectedCountry) &&
-			(!selectedPlayer || players >= Number(selectedPlayer)) &&
+			(!selectedPlayer || hasSufficientPlayers(Number(selectedPlayer), players)) &&
 			(!selectedPlatform || platformsAvailable.includes(selectedPlatform)) &&
 			(!selectedStatus || status === selectedStatus)
 	);
