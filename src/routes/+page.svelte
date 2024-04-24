@@ -2,11 +2,16 @@
 	import games from '../api/games.json';
 	import CardList from '../components/CardList.svelte';
 	import Filters from '../components/Filters.svelte';
+	import type { Game } from '../lib/types';
 
-	$: gamesToDisplay = games.filter(({ hide }) => !hide);
+	const formatGamesList = (gameList: Game[]) => {
+		return gameList.filter(({ hide }) => !hide).sort((a, b) => a.name.localeCompare(b.name));
+	};
+
+	$: gamesToDisplay = formatGamesList(games);
 
 	const handleDisplayedGamesUpdate = (event: any) => {
-		gamesToDisplay = event.detail.gamesToDisplay;
+		gamesToDisplay = formatGamesList(event.detail.gamesToDisplay);
 	};
 </script>
 
