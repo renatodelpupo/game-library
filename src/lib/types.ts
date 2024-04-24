@@ -6,6 +6,7 @@ export type Country = {
 export type Game = {
 	country: string;
 	developer: string;
+	favorite: boolean;
 	hide: boolean;
 	name: string;
 	platformsAvailable: Array<string>;
@@ -15,6 +16,7 @@ export type Game = {
 	status: string;
 	thumbnail: string;
 	url: object;
+	vendors: Array<string>;
 };
 
 export type Option = {

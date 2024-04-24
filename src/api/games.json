@@ -14,7 +14,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1333470/Alex_Kidd_in_Miracle_World_DX/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/alex-kidd-in-miracle-world-dx-switch/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -30,7 +31,8 @@
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/907760/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/907760/ARIDA_Backlands_Awakening/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -46,7 +48,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1212030/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1212030/ARIDA_2_Rise_of_the_Brave/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "BR",
@@ -62,7 +65,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/314360/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/314360/Aritana_and_the_Harpys_Feather/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "BR",
@@ -78,11 +82,13 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1556040/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1556040/Aritana_and_the_Twin_Masks/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "FR",
 		"developer": "Gameloft",
+		"favorite": false,
 		"hide": true,
 		"name": "Asphalt Legends",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -94,7 +100,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1815780/Asphalt_9_Legends/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/asphalt-9-legends-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -110,7 +117,8 @@
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1990740/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1990740/Barro_GT/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -127,7 +135,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/609110/Blazing_Chrome/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/blazing-chrome-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -143,7 +152,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000064535/00754472aea773e379cab4ac7af208d4e008968a4ec4b9142dfbf185a3463306",
 		"url": {
 			"PC": "https://store.steampowered.com/app/2287760/Brave_Soldier__Invasion_of_Cyborgs/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -160,7 +170,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1433870/Bricky_to_Me/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/bricky-to-me-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -176,11 +187,13 @@
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2592040/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/2592040/Buddy_and_Friends_on_Halloween/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "",
 		"developer": "",
+		"favorite": false,
 		"hide": true,
 		"name": "Chess Knights: Viking Lands",
 		"platformsAvailable": ["SWITCH"],
@@ -191,7 +204,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/chess-knights-viking-lands-switch/hero",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/chess-knights-viking-lands-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "JP",
@@ -207,7 +221,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/c/clubhouse-games-51-worldwide-classics-switch/hero",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/clubhouse-games-51-worldwide-classics-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "",
@@ -224,7 +239,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/731490/Crash_Bandicoot_N_Sane_Trilogy/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/crash-bandicoot-n-sane-trilogy-switch/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -240,7 +256,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000043719/787ad227247afc00dc42f3e81a33076e27e3e64bfcfc78e1401acf4397219bc7",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1595180/Crazy_Gravity/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -257,7 +274,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/612390/Dandara_Trials_of_Fear_Edition/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dandara-trials-of-fear-edition-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -274,7 +292,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1037130/Dandy_Ace/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dandy-ace-switch/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "AU",
@@ -291,7 +310,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/471810/Death_Squared/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/death-squared-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -308,14 +328,15 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1577260/Dininho_Adventures_Definitive_Edition/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dininho-adventures-switch/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
 		"developer": "Dininho",
 		"favorite": true,
 		"hide": false,
-		"name": "Dininho Space Adventures",
+		"name": "Dininho Space Adventure",
 		"platformsAvailable": ["PC", "SWITCH"],
 		"players": 1,
 		"purchased": ["PC", "SWITCH"],
@@ -325,11 +346,13 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1616870/Dininho_Space_Adventure/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dininho-space-adventure-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "FR",
 		"developer": "Gameloft",
+		"favorite": false,
 		"hide": true,
 		"name": "Disney Speedstorm",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -341,7 +364,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1537830/Disney_Speedstorm/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/disney-speedstorm-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -358,7 +382,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1422420/Dodgeball_Academia/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dodgeball-academia-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -374,7 +399,8 @@
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/917290/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/917290/Duck_Souls/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "",
@@ -390,7 +416,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/791470/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/791470/DYO/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "UK",
@@ -407,7 +434,8 @@
 		"url": {
 			"PC": "https://store.epicgames.com/br/p/fall-guys",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/fall-guys-switch/"
-		}
+		},
+		"vendors": ["eShop", "Epic"]
 	},
 	{
 		"country": "US",
@@ -423,7 +451,8 @@
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -439,7 +468,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/682810/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/682810/GUTS/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "BR",
@@ -456,7 +486,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/horizon-chase-turbo-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -473,7 +504,8 @@
 		"url": {
 			"PC": "https://store.epicgames.com/br/p/horizon-chase-2",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/horizon-chase-2-switch/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "SE",
@@ -490,7 +522,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/598550/HUNTDOWN/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/huntdown-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -507,7 +540,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/2093900/Island_Cities__Jigsaw_Puzzle/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/island-cities-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -524,7 +558,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/829280/Kaze_and_the_Wild_Masks/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/kaze-and-the-wild-masks-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "JP",
@@ -540,7 +575,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mario-party-superstars-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "JP",
@@ -556,7 +592,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mario-kart-8-deluxe-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "US",
@@ -573,7 +610,8 @@
 		"url": {
 			"PC": "https://www.xbox.com/it-it/games/store/minecraft/9mvxmvt8zkwc",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/minecraft-switch/"
-		}
+		},
+		"vendors": ["eShop", "Xbox"]
 	},
 	{
 		"country": "BR",
@@ -590,7 +628,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/925900/Monica_e_a_Guarda_dos_Coelhos/",
 			"SWITCH": "https://www.nintendo.com/us/store/products/monica-e-a-guarda-dos-coelhos-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "US",
@@ -607,7 +646,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/976310/Mortal_Kombat11/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mortal-kombat-11-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "PL",
@@ -624,7 +664,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/252750/MouseCraft/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/mousecraft-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "US",
@@ -640,7 +681,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1818750/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1818750/MultiVersus/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -656,7 +698,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/696140/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/696140/No_Heroes_Here/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "FI",
@@ -673,11 +716,13 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/339200/Oceanhorn_Monster_of_Uncharted_Seas/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/oceanhorn-monster-of-uncharted-seas-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "UK",
 		"developer": "Ghost Town Games",
+		"favorite": false,
 		"hide": true,
 		"name": "Overcooked! All You Can Eat",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -689,7 +734,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/overcooked-all-you-can-eat-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "BR",
@@ -705,7 +751,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1555150/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1555150/Pocket_Bravery/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "JP",
@@ -721,7 +768,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000043292/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/pokemon-unite-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "PL",
@@ -737,7 +785,8 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1196/b_white/f_auto/q_auto/ncom/software/switch/70010000068267/11d4a384f7d7a905c1c6679d289ac0f9a7f15aa939199b10289f006ab938e065",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/pool-together-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "BR",
@@ -753,7 +802,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2314950/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/2314950/Pop_Some_Eyes/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "US",
@@ -769,7 +819,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/400/Portal/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -785,7 +836,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1373740/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1373740/Prehistoric_Dude/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -801,7 +853,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/849210/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/849210/Raccoo_Venture/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "FR",
@@ -818,7 +871,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/242550/Rayman_Legends/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/rayman-legends-definitive-edition-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "US",
@@ -834,7 +888,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -850,7 +905,8 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/633080/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/633080/Relic_Hunters_Legend/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "BR",
@@ -866,11 +922,13 @@
 		"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000028048/739402a5215664929a2d18f26b05935935e1c97b1355a7142e85fc05cb7a868a",
 		"url": {
 			"PC": "https://store.steampowered.com/app/382490/Relic_Hunters_Zero_Remix/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "US",
 		"developer": "Psyonix",
+		"favorite": false,
 		"hide": true,
 		"name": "Rocket League",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -882,7 +940,8 @@
 		"url": {
 			"PC": "https://store.epicgames.com/br/p/rocket-league",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/rocket-league-switch/"
-		}
+		},
+		"vendors": ["eShop", "Epic"]
 	},
 	{
 		"country": "DE",
@@ -899,7 +958,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/359840/Shift_Happens/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/shift-happens-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -916,7 +976,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/994500/Sky_Racket/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/sky-racket-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "BR",
@@ -933,7 +994,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/389170/Songs_for_a_Hero__Definitive_Edition/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/songs-for-a-hero-definitive-edition-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "UK",
@@ -949,7 +1011,8 @@
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212480/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "JP",
@@ -966,7 +1029,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/2022670/SONIC_SUPERSTARS/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/sonic-superstars-switch/"
-		}
+		},
+		"vendors": ["Steam"]
 	},
 	{
 		"country": "BR",
@@ -983,7 +1047,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1286670/Spooky_Chase/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/spooky-chase-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "JP",
@@ -1000,7 +1065,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/702700/Super_Bomberman_R/",
 			"SWITCH": "https://www.nintendo.com/us/store/products/super-bomberman-r-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "JP",
@@ -1016,7 +1082,8 @@
 		"thumbnail": "https://fs-prod-cdn.nintendo-europe.com/media/images/06_screenshots/games_5/virtual_console_wii_u_3/wiiuvc_supermarioworld/WiiUVC_SuperMarioWorld_01.bmp",
 		"url": {
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
-		}
+		},
+		"vendors": ["eShop"]
 	},
 	{
 		"country": "BR",
@@ -1033,7 +1100,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1942010/Vengeful_Guardian_Moonrider/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/vengeful-guardian-moonrider-switch/"
-		}
+		},
+		"vendors": []
 	},
 	{
 		"country": "BR",
@@ -1050,7 +1118,8 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/1247160/WarDogs_Reds_Return/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/war-dogs-reds-return-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	},
 	{
 		"country": "FR",
@@ -1067,6 +1136,7 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/985900/Young_Souls/",
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/young-souls-switch/"
-		}
+		},
+		"vendors": ["eShop", "Steam"]
 	}
 ]
