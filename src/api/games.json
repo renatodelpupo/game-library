@@ -2,6 +2,7 @@
 	{
 		"country": "",
 		"developer": "Merge Games, Jankenteam",
+		"favorite": true,
 		"hide": false,
 		"name": "Alex Kidd in Miracle World DX",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -18,6 +19,7 @@
 	{
 		"country": "BR",
 		"developer": "Aoca Game Lab",
+		"favorite": true,
 		"hide": false,
 		"name": "ARIDA: Backland's Awakening",
 		"platformsAvailable": ["PC"],
@@ -33,6 +35,7 @@
 	{
 		"country": "BR",
 		"developer": "Aoca Game Lab",
+		"favorite": true,
 		"hide": false,
 		"name": "ARIDA 2: Rise of the Brave",
 		"platformsAvailable": ["PC"],
@@ -48,6 +51,7 @@
 	{
 		"country": "BR",
 		"developer": "Duaik Entretenimento (SP)",
+		"favorite": true,
 		"hide": false,
 		"name": "Aritana and the Harpy's Feather",
 		"platformsAvailable": ["PC"],
@@ -63,6 +67,7 @@
 	{
 		"country": "BR",
 		"developer": "Duaik Entretenimento (SP)",
+		"favorite": true,
 		"hide": false,
 		"name": "Aritana and the Twin Masks",
 		"platformsAvailable": ["PC"],
@@ -94,6 +99,7 @@
 	{
 		"country": "BR",
 		"developer": "SC Jogos",
+		"favorite": true,
 		"hide": false,
 		"name": "Barro GT",
 		"platformsAvailable": ["PC"],
@@ -109,6 +115,7 @@
 	{
 		"country": "BR",
 		"developer": "JoyMasher (Curitiba/PR)",
+		"favorite": true,
 		"hide": false,
 		"name": "Blazing Chrome",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -125,6 +132,7 @@
 	{
 		"country": "BR",
 		"developer": "JM Neto Game Dev",
+		"favorite": true,
 		"hide": false,
 		"name": "Brave Soldier",
 		"platformsAvailable": ["PC"],
@@ -140,6 +148,7 @@
 	{
 		"country": "BR",
 		"developer": "IdunaSoft (Vitória/ES)",
+		"favorite": true,
 		"hide": false,
 		"name": "Bricky to Me",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -156,6 +165,7 @@
 	{
 		"country": "BR",
 		"developer": "Mens Sana Interactive",
+		"favorite": true,
 		"hide": false,
 		"name": "Buddy and Friends on Halloween",
 		"platformsAvailable": ["PC"],
@@ -186,6 +196,7 @@
 	{
 		"country": "JP",
 		"developer": "Nintendo",
+		"favorite": true,
 		"hide": false,
 		"name": "Clubhouse Games™: 51 Worldwide Classics",
 		"platformsAvailable": ["SWITCH"],
@@ -201,6 +212,7 @@
 	{
 		"country": "",
 		"developer": "Vicarious Visions, Iron Galaxy",
+		"favorite": true,
 		"hide": false,
 		"name": "Crash Bandicoot™ N. Sane Trilogy",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -217,6 +229,7 @@
 	{
 		"country": "BR",
 		"developer": "JM Neto Game Dev",
+		"favorite": true,
 		"hide": false,
 		"name": "Crazy Gravity",
 		"platformsAvailable": ["PC"],
@@ -232,6 +245,7 @@
 	{
 		"country": "BR",
 		"developer": "Long Hat Hourse (BH/MG)",
+		"favorite": true,
 		"hide": false,
 		"name": "Dandara",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -248,6 +262,7 @@
 	{
 		"country": "BR",
 		"developer": "Mad Mimic (SP)",
+		"favorite": true,
 		"hide": false,
 		"name": "Dandy Ace",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -264,6 +279,7 @@
 	{
 		"country": "AU",
 		"developer": "",
+		"favorite": true,
 		"hide": false,
 		"name": "Death Squared",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -280,6 +296,7 @@
 	{
 		"country": "BR",
 		"developer": "Dininho",
+		"favorite": true,
 		"hide": false,
 		"name": "Dininho Adventures",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -296,6 +313,7 @@
 	{
 		"country": "BR",
 		"developer": "Dininho",
+		"favorite": true,
 		"hide": false,
 		"name": "Dininho Space Adventures",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -328,6 +346,7 @@
 	{
 		"country": "BR",
 		"developer": "Pocket Trap (SP)",
+		"favorite": true,
 		"hide": false,
 		"name": "Dodgeball Academia",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -344,6 +363,7 @@
 	{
 		"country": "BR",
 		"developer": "Viridino Studios",
+		"favorite": true,
 		"hide": false,
 		"name": "Duck Souls",
 		"platformsAvailable": ["PC"],
@@ -359,6 +379,7 @@
 	{
 		"country": "",
 		"developer": "",
+		"favorite": true,
 		"hide": false,
 		"name": "DYO",
 		"platformsAvailable": ["PC"],
@@ -374,6 +395,7 @@
 	{
 		"country": "UK",
 		"developer": "Mediatonic",
+		"favorite": true,
 		"hide": false,
 		"name": "Fall Guys",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -390,6 +412,7 @@
 	{
 		"country": "US",
 		"developer": "Rockstar Games",
+		"favorite": true,
 		"hide": false,
 		"name": "Grand Theft Auto V",
 		"platformsAvailable": ["PC"],
@@ -405,6 +428,7 @@
 	{
 		"country": "BR",
 		"developer": "Flux Games",
+		"favorite": true,
 		"hide": false,
 		"name": "GUTS",
 		"platformsAvailable": ["PC"],
@@ -420,6 +444,7 @@
 	{
 		"country": "BR",
 		"developer": "Aquiris Game Studio (PoA/RS)",
+		"favorite": true,
 		"hide": false,
 		"name": "Horizon Chase Turbo",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -436,6 +461,7 @@
 	{
 		"country": "BR",
 		"developer": "Aquiris Game Studio (Porto Alegre/RS)",
+		"favorite": true,
 		"hide": false,
 		"name": "Horizon Chase 2",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -452,6 +478,7 @@
 	{
 		"country": "SE",
 		"developer": "",
+		"favorite": true,
 		"hide": false,
 		"name": "Huntdown",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -468,6 +495,7 @@
 	{
 		"country": "BR",
 		"developer": "Mens Sana Interactive",
+		"favorite": true,
 		"hide": false,
 		"name": "Island Cities",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -484,6 +512,7 @@
 	{
 		"country": "BR",
 		"developer": "PixelHive",
+		"favorite": true,
 		"hide": false,
 		"name": "Kaze and the Wild Masks",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -500,6 +529,7 @@
 	{
 		"country": "JP",
 		"developer": "Nintendo",
+		"favorite": true,
 		"hide": false,
 		"name": "Mario Party Superstars",
 		"platformsAvailable": ["SWITCH"],
@@ -515,6 +545,7 @@
 	{
 		"country": "JP",
 		"developer": "Nintendo",
+		"favorite": true,
 		"hide": false,
 		"name": "Mario Kart 8 Deluxe",
 		"platformsAvailable": ["SWITCH"],
@@ -530,6 +561,7 @@
 	{
 		"country": "US",
 		"developer": "Mojang",
+		"favorite": true,
 		"hide": false,
 		"name": "Minecraft",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -546,6 +578,7 @@
 	{
 		"country": "BR",
 		"developer": "Mad Mimic (SP)",
+		"favorite": true,
 		"hide": false,
 		"name": "Monica e a Guarda dos Coelhos",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -562,6 +595,7 @@
 	{
 		"country": "US",
 		"developer": "NetherRealm Studios",
+		"favorite": true,
 		"hide": false,
 		"name": "Mortal Kombat 11",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -578,6 +612,7 @@
 	{
 		"country": "PL",
 		"developer": "",
+		"favorite": true,
 		"hide": false,
 		"name": "MouseCraft",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -594,6 +629,7 @@
 	{
 		"country": "US",
 		"developer": "Player First Games",
+		"favorite": true,
 		"hide": false,
 		"name": "MultiVersus",
 		"platformsAvailable": ["PC"],
@@ -609,6 +645,7 @@
 	{
 		"country": "BR",
 		"developer": "Mad Mimic (SP)",
+		"favorite": true,
 		"hide": false,
 		"name": "No Heroes Here",
 		"platformsAvailable": ["PC"],
@@ -624,6 +661,7 @@
 	{
 		"country": "FI",
 		"developer": "Cornfox e Brothers",
+		"favorite": true,
 		"hide": false,
 		"name": "Oceanhorn - Monster of Uncharted Seas",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -656,6 +694,7 @@
 	{
 		"country": "BR",
 		"developer": "Statera Studio",
+		"favorite": true,
 		"hide": false,
 		"name": "Pocket Bravery",
 		"platformsAvailable": ["PC"],
@@ -671,6 +710,7 @@
 	{
 		"country": "JP",
 		"developer": "TiMi Studio Group",
+		"favorite": true,
 		"hide": false,
 		"name": "Pokemon Unite",
 		"platformsAvailable": ["SWITCH"],
@@ -686,6 +726,7 @@
 	{
 		"country": "PL",
 		"developer": "",
+		"favorite": true,
 		"hide": false,
 		"name": "Pool Together",
 		"platformsAvailable": ["SWITCH"],
@@ -701,6 +742,7 @@
 	{
 		"country": "BR",
 		"developer": "Mito Games (Vitória/ES)",
+		"favorite": true,
 		"hide": false,
 		"name": "Pop Some Eyes",
 		"platformsAvailable": ["PC"],
@@ -716,6 +758,7 @@
 	{
 		"country": "US",
 		"developer": "Valve",
+		"favorite": true,
 		"hide": false,
 		"name": "Portal",
 		"platformsAvailable": ["PC"],
@@ -731,6 +774,7 @@
 	{
 		"country": "BR",
 		"developer": "LightUP",
+		"favorite": true,
 		"hide": false,
 		"name": "Prehistoric Dude",
 		"platformsAvailable": ["PC"],
@@ -746,6 +790,7 @@
 	{
 		"country": "BR",
 		"developer": "Diego Ras",
+		"favorite": true,
 		"hide": false,
 		"name": "Raccoo Venture",
 		"platformsAvailable": ["PC"],
@@ -761,6 +806,7 @@
 	{
 		"country": "FR",
 		"developer": "Ubisoft",
+		"favorite": true,
 		"hide": false,
 		"name": "Rayman Legends",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -777,6 +823,7 @@
 	{
 		"country": "US",
 		"developer": "Rockstar Games",
+		"favorite": true,
 		"hide": false,
 		"name": "Red Dead Redemption 2",
 		"platformsAvailable": ["PC"],
@@ -792,6 +839,7 @@
 	{
 		"country": "BR",
 		"developer": "Rogue Snail",
+		"favorite": true,
 		"hide": false,
 		"name": "Relic Hunters Legend",
 		"platformsAvailable": ["PC"],
@@ -807,6 +855,7 @@
 	{
 		"country": "BR",
 		"developer": "Rogue Snail",
+		"favorite": true,
 		"hide": false,
 		"name": "Relic Hunters Zero: Remix",
 		"platformsAvailable": ["PC"],
@@ -838,6 +887,7 @@
 	{
 		"country": "DE",
 		"developer": "Klonk Games",
+		"favorite": true,
 		"hide": false,
 		"name": "Shift Happens",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -854,6 +904,7 @@
 	{
 		"country": "BR",
 		"developer": "Double Dash Studios",
+		"favorite": true,
 		"hide": false,
 		"name": "Sky Racket",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -870,6 +921,7 @@
 	{
 		"country": "BR",
 		"developer": "Dumativa, Castro Brothers",
+		"favorite": true,
 		"hide": false,
 		"name": "Songs for a Hero",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -886,6 +938,7 @@
 	{
 		"country": "UK",
 		"developer": "Sumo Digital",
+		"favorite": true,
 		"hide": false,
 		"name": "Sonic & All-Stars Racing Transformed Collection",
 		"platformsAvailable": ["PC"],
@@ -901,6 +954,7 @@
 	{
 		"country": "JP",
 		"developer": "SEGA",
+		"favorite": true,
 		"hide": false,
 		"name": "Sonic Superstars",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -917,6 +971,7 @@
 	{
 		"country": "BR",
 		"developer": "Burning Goat Studio (PoA/RS)",
+		"favorite": true,
 		"hide": false,
 		"name": "Spooky Chase",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -933,6 +988,7 @@
 	{
 		"country": "JP",
 		"developer": "Konami",
+		"favorite": true,
 		"hide": false,
 		"name": "Super Bomberman R",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -949,6 +1005,7 @@
 	{
 		"country": "JP",
 		"developer": "Nintendo",
+		"favorite": true,
 		"hide": false,
 		"name": "Super Mario World",
 		"platformsAvailable": ["SWITCH"],
@@ -964,6 +1021,7 @@
 	{
 		"country": "BR",
 		"developer": "JoyMasher (Curitiba/PR)",
+		"favorite": true,
 		"hide": false,
 		"name": "Vengeful Guardian: Moonrider",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -980,6 +1038,7 @@
 	{
 		"country": "BR",
 		"developer": "Mito Games (Vitória/ES)",
+		"favorite": true,
 		"hide": false,
 		"name": "Wardogs: Red's Return",
 		"platformsAvailable": ["PC", "SWITCH"],
@@ -996,6 +1055,7 @@
 	{
 		"country": "FR",
 		"developer": "1P2P",
+		"favorite": true,
 		"hide": false,
 		"name": "Young Souls",
 		"platformsAvailable": ["PC", "SWITCH"],
