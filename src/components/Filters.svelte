@@ -67,8 +67,7 @@
 
 	$: favoriteOnly = false;
 	$: gamesToDisplay = games.filter(
-		({ country, favorite, hide, players, platformsAvailable, purchased, status }) =>
-			!hide &&
+		({ country, favorite, players, platformsAvailable, purchased, status }) =>
 			(!favoriteOnly || favorite) &&
 			(!purchasedOnly ||
 				(selectedPlatform ? purchased.includes(selectedPlatform) : purchased.length >= 1)) &&
