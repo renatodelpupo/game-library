@@ -97,16 +97,21 @@
 </script>
 
 <div class="filters">
-	<SelectBox options={playersOptions} type="Players" bind:selectedOption={selectedPlayer} />
-	<SelectBox options={countryOptions} type="Country" bind:selectedOption={selectedCountry} />
-	<SelectBox options={platformOptions} type="Platform" bind:selectedOption={selectedPlatform} />
-	<SelectBox options={statusOptions} type="Status" bind:selectedOption={selectedStatus} />
-	<Checkbox label="Favorite" on:updateCheckbox={checkFavorite} />
-	<Checkbox label="Purchased" on:updateCheckbox={checkPurchased} />
+	<div class="row">
+		<SelectBox options={playersOptions} type="Players" bind:selectedOption={selectedPlayer} />
+		<SelectBox options={countryOptions} type="Country" bind:selectedOption={selectedCountry} />
+		<SelectBox options={platformOptions} type="Platform" bind:selectedOption={selectedPlatform} />
+		<SelectBox options={statusOptions} type="Status" bind:selectedOption={selectedStatus} />
+	</div>
+	<div class="row">
+		<Checkbox label="Favorite" on:updateCheckbox={checkFavorite} />
+		<Checkbox label="Purchased" on:updateCheckbox={checkPurchased} />
+		<span>({gamesToDisplay.length} results)</span>
+	</div>
 </div>
 
 <style>
-	.filters {
+	.row {
 		align-items: center;
 		box-sizing: border-box;
 		display: inline-flex;
