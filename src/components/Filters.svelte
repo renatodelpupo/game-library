@@ -65,9 +65,11 @@
 		return target <= total;
 	};
 
+	$: favoriteOnly = false;
 	$: gamesToDisplay = games.filter(
-		({ country, hide, players, platformsAvailable, purchased, status }) =>
+		({ country, favorite, hide, players, platformsAvailable, purchased, status }) =>
 			!hide &&
+			(!favoriteOnly || favorite) &&
 			(!purchasedOnly ||
 				(selectedPlatform ? purchased.includes(selectedPlatform) : purchased.length >= 1)) &&
 			(!selectedCountry || country === selectedCountry) &&
@@ -85,6 +87,10 @@
 		dispatch('updateDisplayedGames', { gamesToDisplay });
 	}
 
+	const checkFavorite = (event: CustomEvent<InputEvent>) => {
+		favoriteOnly = !!event.detail;
+	};
+
 	const checkPurchased = (event: CustomEvent<InputEvent>) => {
 		purchasedOnly = !!event.detail;
 	};
@@ -95,6 +101,7 @@
 	<SelectBox options={countryOptions} type="Country" bind:selectedOption={selectedCountry} />
 	<SelectBox options={platformOptions} type="Platform" bind:selectedOption={selectedPlatform} />
 	<SelectBox options={statusOptions} type="Status" bind:selectedOption={selectedStatus} />
+	<Checkbox label="Favorite" on:updateCheckbox={checkFavorite} />
 	<Checkbox label="Purchased" on:updateCheckbox={checkPurchased} />
 </div>
 
