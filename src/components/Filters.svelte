@@ -71,24 +71,31 @@
 
 	$: favoriteOnly = true;
 	$: gamesToDisplay = games.filter(
-		({ country, favorite, players, platformsAvailable, purchased, status }) =>
+		({ archived, country, favorite, players, platformsAvailable, purchased, status }) =>
 			(!favoriteOnly || favorite) &&
 			(!purchasedOnly ||
 				(selectedPlatform ? purchased.includes(selectedPlatform) : purchased.length >= 1)) &&
 			(!selectedCountry || country === selectedCountry) &&
 			(!selectedPlayer || hasSufficientPlayers(Number(selectedPlayer), players)) &&
 			(!selectedPlatform || platformsAvailable.includes(selectedPlatform)) &&
-			(!selectedStatus || status === selectedStatus)
+			(!selectedStatus || status === selectedStatus) &&
+			(showArchived || !archived)
 	);
 	$: purchasedOnly = true;
 	$: selectedCountry = '';
 	$: selectedPlatform = '';
 	$: selectedPlayer = '';
 	$: selectedStatus = '';
+	$: showArchived = false;
 
 	$: {
 		dispatch('updateDisplayedGames', { gamesToDisplay });
 	}
+
+	const checkArchived = (event: CustomEvent<InputEvent>) => {
+		showArchived = !!event.detail;
+		showArchived && (favoriteOnly = false);
+	};
 
 	const checkFavorite = (event: CustomEvent<InputEvent>) => {
 		favoriteOnly = !!event.detail;
@@ -109,6 +116,7 @@
 	<div class="row">
 		<Checkbox checked={favoriteOnly} label="Favorite" on:updateCheckbox={checkFavorite} />
 		<Checkbox checked={purchasedOnly} label="Purchased" on:updateCheckbox={checkPurchased} />
+		<Checkbox checked={showArchived} label="Archived" on:updateCheckbox={checkArchived} />
 		<span>({gamesToDisplay.length} results)</span>
 	</div>
 </div>
