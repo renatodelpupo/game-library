@@ -4,6 +4,7 @@ export type Country = {
 };
 
 export type Game = {
+	archived: boolean;
 	country: string;
 	developer: string;
 	favorite: boolean;

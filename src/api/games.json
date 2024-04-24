@@ -1,5 +1,6 @@
 [
 	{
+		"archived": false,
 		"country": "",
 		"developer": "Merge Games, Jankenteam",
 		"favorite": true,
@@ -18,6 +19,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Aoca Game Lab",
 		"favorite": true,
@@ -35,6 +37,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Aoca Game Lab",
 		"favorite": true,
@@ -52,6 +55,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Duaik Entretenimento (SP)",
 		"favorite": true,
@@ -69,6 +73,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Duaik Entretenimento (SP)",
 		"favorite": true,
@@ -86,6 +91,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "FR",
 		"developer": "Gameloft",
 		"favorite": false,
@@ -104,6 +110,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "SC Jogos",
 		"favorite": true,
@@ -121,6 +128,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "JoyMasher (Curitiba/PR)",
 		"favorite": true,
@@ -139,6 +147,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "JM Neto Game Dev",
 		"favorite": true,
@@ -156,6 +165,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "IdunaSoft (Vitória/ES)",
 		"favorite": true,
@@ -174,6 +184,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mens Sana Interactive",
 		"favorite": true,
@@ -191,6 +202,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -208,6 +220,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "Nintendo",
 		"favorite": true,
@@ -225,6 +238,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "Vicarious Visions, Iron Galaxy",
 		"favorite": true,
@@ -243,6 +257,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "JM Neto Game Dev",
 		"favorite": true,
@@ -260,6 +275,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Long Hat Hourse (BH/MG)",
 		"favorite": true,
@@ -278,6 +294,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mad Mimic (SP)",
 		"favorite": true,
@@ -296,6 +313,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "AU",
 		"developer": "",
 		"favorite": true,
@@ -314,6 +332,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Dininho",
 		"favorite": true,
@@ -332,6 +351,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Dininho",
 		"favorite": true,
@@ -350,6 +370,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "FR",
 		"developer": "Gameloft",
 		"favorite": false,
@@ -368,6 +389,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Pocket Trap (SP)",
 		"favorite": true,
@@ -386,6 +408,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Viridino Studios",
 		"favorite": true,
@@ -403,6 +426,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": true,
@@ -420,6 +444,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "UK",
 		"developer": "Mediatonic",
 		"favorite": true,
@@ -438,6 +463,7 @@
 		"vendors": ["eShop", "Epic"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "Rockstar Games",
 		"favorite": true,
@@ -455,6 +481,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Flux Games",
 		"favorite": true,
@@ -472,6 +499,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Aquiris Game Studio (PoA/RS)",
 		"favorite": true,
@@ -490,6 +518,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Aquiris Game Studio (Porto Alegre/RS)",
 		"favorite": true,
@@ -508,6 +537,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "SE",
 		"developer": "",
 		"favorite": true,
@@ -526,6 +556,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mens Sana Interactive",
 		"favorite": true,
@@ -544,6 +575,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "PixelHive",
 		"favorite": true,
@@ -562,6 +594,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "Nintendo",
 		"favorite": true,
@@ -579,6 +612,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "Nintendo",
 		"favorite": true,
@@ -596,6 +630,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "Mojang",
 		"favorite": true,
@@ -614,6 +649,7 @@
 		"vendors": ["eShop", "Xbox"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mad Mimic (SP)",
 		"favorite": true,
@@ -632,6 +668,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "NetherRealm Studios",
 		"favorite": true,
@@ -650,6 +687,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "PL",
 		"developer": "",
 		"favorite": true,
@@ -668,6 +706,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "Player First Games",
 		"favorite": true,
@@ -685,6 +724,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mad Mimic (SP)",
 		"favorite": true,
@@ -702,6 +742,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "FI",
 		"developer": "Cornfox e Brothers",
 		"favorite": true,
@@ -720,6 +761,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "UK",
 		"developer": "Ghost Town Games",
 		"favorite": false,
@@ -738,6 +780,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Statera Studio",
 		"favorite": true,
@@ -755,6 +798,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "TiMi Studio Group",
 		"favorite": true,
@@ -772,6 +816,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "PL",
 		"developer": "",
 		"favorite": true,
@@ -789,6 +834,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mito Games (Vitória/ES)",
 		"favorite": true,
@@ -806,6 +852,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "Valve",
 		"favorite": true,
@@ -823,6 +870,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "LightUP",
 		"favorite": true,
@@ -840,6 +888,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Diego Ras",
 		"favorite": true,
@@ -857,6 +906,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "FR",
 		"developer": "Ubisoft",
 		"favorite": true,
@@ -875,6 +925,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "Rockstar Games",
 		"favorite": true,
@@ -892,6 +943,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Rogue Snail",
 		"favorite": true,
@@ -909,6 +961,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Rogue Snail",
 		"favorite": true,
@@ -926,6 +979,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "US",
 		"developer": "Psyonix",
 		"favorite": false,
@@ -944,6 +998,7 @@
 		"vendors": ["eShop", "Epic"]
 	},
 	{
+		"archived": false,
 		"country": "DE",
 		"developer": "Klonk Games",
 		"favorite": true,
@@ -962,6 +1017,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Double Dash Studios",
 		"favorite": true,
@@ -980,6 +1036,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Dumativa, Castro Brothers",
 		"favorite": true,
@@ -998,6 +1055,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "UK",
 		"developer": "Sumo Digital",
 		"favorite": true,
@@ -1015,6 +1073,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "SEGA",
 		"favorite": true,
@@ -1033,6 +1092,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Burning Goat Studio (PoA/RS)",
 		"favorite": true,
@@ -1051,6 +1111,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "Konami",
 		"favorite": true,
@@ -1069,6 +1130,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "JP",
 		"developer": "Nintendo",
 		"favorite": true,
@@ -1086,6 +1148,7 @@
 		"vendors": ["eShop"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "JoyMasher (Curitiba/PR)",
 		"favorite": true,
@@ -1104,6 +1167,7 @@
 		"vendors": []
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mito Games (Vitória/ES)",
 		"favorite": true,
@@ -1122,6 +1186,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "FR",
 		"developer": "1P2P",
 		"favorite": true,
@@ -1140,6 +1205,7 @@
 		"vendors": ["eShop", "Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "",
 		"favorite": false,
@@ -1157,6 +1223,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "BR",
 		"developer": "",
 		"favorite": false,
@@ -1174,6 +1241,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1191,6 +1259,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1208,6 +1277,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1225,6 +1295,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1242,6 +1313,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1259,6 +1331,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1276,6 +1349,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1293,6 +1367,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1310,6 +1385,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1327,6 +1403,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1344,6 +1421,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1361,6 +1439,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1378,6 +1457,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1395,6 +1475,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1412,6 +1493,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1429,6 +1511,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1446,6 +1529,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1463,6 +1547,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1480,6 +1565,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1497,6 +1583,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1514,6 +1601,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1531,6 +1619,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1548,6 +1637,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1565,6 +1655,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1582,6 +1673,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1599,6 +1691,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1616,6 +1709,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1633,6 +1727,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1650,6 +1745,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1667,6 +1763,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1684,6 +1781,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1701,6 +1799,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1718,6 +1817,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1735,6 +1835,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1752,6 +1853,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1769,6 +1871,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1786,6 +1889,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1803,6 +1907,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1820,6 +1925,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1837,6 +1943,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1854,6 +1961,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1871,6 +1979,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1888,6 +1997,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1905,6 +2015,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1922,6 +2033,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1939,6 +2051,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1956,6 +2069,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1973,6 +2087,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -1990,6 +2105,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2007,6 +2123,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2024,6 +2141,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2041,6 +2159,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2058,6 +2177,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2075,6 +2195,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2092,6 +2213,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2109,6 +2231,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2126,6 +2249,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2143,6 +2267,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2160,6 +2285,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2177,6 +2303,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2194,6 +2321,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2211,6 +2339,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2228,6 +2357,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2245,6 +2375,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2262,6 +2393,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2279,6 +2411,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2296,6 +2429,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2313,6 +2447,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2330,6 +2465,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2347,6 +2483,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2364,6 +2501,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2381,6 +2519,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2398,6 +2537,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2415,6 +2555,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2432,6 +2573,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2449,6 +2591,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2466,6 +2609,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2483,6 +2627,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2500,6 +2645,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2517,6 +2663,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2534,6 +2681,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2551,6 +2699,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2568,6 +2717,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2585,6 +2735,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2602,6 +2753,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2619,6 +2771,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2636,6 +2789,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2653,6 +2807,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2670,6 +2825,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2687,6 +2843,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2704,6 +2861,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2721,6 +2879,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2738,6 +2897,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2755,6 +2915,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2772,6 +2933,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2789,6 +2951,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2806,6 +2969,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2823,6 +2987,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2840,6 +3005,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2857,6 +3023,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2874,6 +3041,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2891,6 +3059,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2908,6 +3077,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2925,6 +3095,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2942,6 +3113,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2959,6 +3131,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2976,6 +3149,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -2993,6 +3167,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3010,6 +3185,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3027,6 +3203,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3044,6 +3221,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3061,6 +3239,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3078,6 +3257,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3095,6 +3275,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3112,6 +3293,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3129,6 +3311,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3146,6 +3329,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -3163,6 +3347,7 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": false,
 		"country": "",
 		"developer": "",
 		"favorite": false,
