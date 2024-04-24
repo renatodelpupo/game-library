@@ -8,7 +8,7 @@
 		return gameList.filter(({ hide }) => !hide).sort((a, b) => a.name.localeCompare(b.name));
 	};
 
-	$: gamesToDisplay = formatGamesList(games);
+	$: gamesToDisplay = [];
 
 	const handleDisplayedGamesUpdate = (event: any) => {
 		gamesToDisplay = formatGamesList(event.detail.gamesToDisplay);

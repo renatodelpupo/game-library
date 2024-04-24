@@ -5,7 +5,9 @@
 
 	const dispatch = createEventDispatcher();
 
-	$: checked = false;
+	export let checked: boolean;
+
+	$: checked = checked || false;
 
 	const handleChange = (event: Event) => {
 		if (!disabled) {

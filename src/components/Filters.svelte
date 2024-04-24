@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { createEventDispatcher } from 'svelte';
+	import { createEventDispatcher, onMount } from 'svelte';
 	import countries from '../api/countries.json';
 	import games from '../api/games.json';
 	import platforms from '../api/platforms.json';
@@ -8,6 +8,10 @@
 	import SelectBox from './SelectBox.svelte';
 
 	const dispatch = createEventDispatcher();
+
+	onMount(() => {
+		dispatch('updateDisplayedGames', { gamesToDisplay });
+	});
 
 	const countryOptions = Object.entries(countries).map(([value, { name }]) => ({
 		label: name,
@@ -65,7 +69,7 @@
 		return target <= total;
 	};
 
-	$: favoriteOnly = false;
+	$: favoriteOnly = true;
 	$: gamesToDisplay = games.filter(
 		({ country, favorite, players, platformsAvailable, purchased, status }) =>
 			(!favoriteOnly || favorite) &&
@@ -76,7 +80,7 @@
 			(!selectedPlatform || platformsAvailable.includes(selectedPlatform)) &&
 			(!selectedStatus || status === selectedStatus)
 	);
-	$: purchasedOnly = false;
+	$: purchasedOnly = true;
 	$: selectedCountry = '';
 	$: selectedPlatform = '';
 	$: selectedPlayer = '';
@@ -103,8 +107,8 @@
 		<SelectBox options={statusOptions} type="Status" bind:selectedOption={selectedStatus} />
 	</div>
 	<div class="row">
-		<Checkbox label="Favorite" on:updateCheckbox={checkFavorite} />
-		<Checkbox label="Purchased" on:updateCheckbox={checkPurchased} />
+		<Checkbox checked={favoriteOnly} label="Favorite" on:updateCheckbox={checkFavorite} />
+		<Checkbox checked={purchasedOnly} label="Purchased" on:updateCheckbox={checkPurchased} />
 		<span>({gamesToDisplay.length} results)</span>
 	</div>
 </div>
