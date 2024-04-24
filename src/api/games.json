@@ -91,7 +91,7 @@
 		"vendors": []
 	},
 	{
-		"archived": false,
+		"archived": true,
 		"country": "FR",
 		"developer": "Gameloft",
 		"favorite": false,
@@ -127,6 +127,25 @@
 		},
 		"vendors": ["Steam"]
 	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Batman: The Enemy Within",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/675260/header.jpg?t=1686747613",
+		"url": {
+			"PC": "https://store.steampowered.com/app/675260/Batman_The_Enemy_Within__The_Telltale_Series/"
+		},
+		"vendors": ["Amazon"]
+	},
+
 	{
 		"archived": false,
 		"country": "BR",
@@ -185,6 +204,25 @@
 	},
 	{
 		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Brothers - A Tale of Two Sons",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/225080/header.jpg?t=1702506450",
+		"url": {
+			"PC": "https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/"
+		},
+		"vendors": ["Amazon"]
+	},
+
+	{
+		"archived": false,
 		"country": "BR",
 		"developer": "Mens Sana Interactive",
 		"favorite": true,
@@ -202,7 +240,7 @@
 		"vendors": ["Steam"]
 	},
 	{
-		"archived": false,
+		"archived": true,
 		"country": "",
 		"developer": "",
 		"favorite": false,
@@ -311,6 +349,42 @@
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/dandy-ace-switch/"
 		},
 		"vendors": ["Steam"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "The Darkside Detective",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/368390/header.jpg?t=1707239370",
+		"url": {
+			"PC": "https://store.steampowered.com/app/368390/The_Darkside_Detective/"
+		},
+		"vendors": ["Amazon"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "The Darkside Detective: A Fumble in the Dark",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/795420/header.jpg?t=1707239414",
+		"url": {
+			"PC": "https://store.steampowered.com/app/795420/The_Darkside_Detective_A_Fumble_in_the_Dark/"
+		},
+		"vendors": ["Amazon"]
 	},
 	{
 		"archived": false,
@@ -461,6 +535,42 @@
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/fall-guys-switch/"
 		},
 		"vendors": ["eShop", "Epic"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Far Cry 3",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/header.jpg?t=1682960396",
+		"url": {
+			"PC": "https://store.steampowered.com/app/220240/Far_Cry_3/"
+		},
+		"vendors": ["Ubisoft"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Far Cry 4",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/header.jpg?t=1694554696",
+		"url": {
+			"PC": "https://store.steampowered.com/app/298110/Far_Cry_4/"
+		},
+		"vendors": ["Ubisoft"]
 	},
 	{
 		"archived": false,
@@ -631,6 +741,60 @@
 	},
 	{
 		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "METAL SLUG 3",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/250180/header.jpg?t=1584640973",
+		"url": {
+			"PC": "https://store.steampowered.com/app/250180/METAL_SLUG_3/"
+		},
+		"vendors": ["Amazon"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "METAL SLUG 4",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "",
+		"url": {
+			"PC": ""
+		},
+		"vendors": ["Amazon"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "METAL SLUG X",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/312610/header.jpg?t=1584640863",
+		"url": {
+			"PC": "https://store.steampowered.com/app/312610/METAL_SLUG_X/"
+		},
+		"vendors": ["Amazon"]
+	},
+	{
+		"archived": false,
 		"country": "US",
 		"developer": "Mojang",
 		"favorite": true,
@@ -762,6 +926,25 @@
 	},
 	{
 		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Out of Line",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1419290/header.jpg?t=1678827418",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1419290/Out_of_Line/"
+		},
+		"vendors": ["Amazon"]
+	},
+
+	{
+		"archived": true,
 		"country": "UK",
 		"developer": "Ghost Town Games",
 		"favorite": false,
@@ -979,7 +1162,7 @@
 		"vendors": ["Steam"]
 	},
 	{
-		"archived": false,
+		"archived": true,
 		"country": "US",
 		"developer": "Psyonix",
 		"favorite": false,
@@ -1184,6 +1367,42 @@
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/war-dogs-reds-return-switch/"
 		},
 		"vendors": ["eShop", "Steam"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "WATCH_DOGS",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/243470/header.jpg?t=1692817688",
+		"url": {
+			"PC": "https://store.steampowered.com/app/243470/Watch_Dogs/"
+		},
+		"vendors": ["Ubisoft"]
+	},
+	{
+		"archived": false,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "WATCH_DOGS 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/447040/header.jpg?t=1692817739",
+		"url": {
+			"PC": "https://store.steampowered.com/app/447040/Watch_Dogs_2/"
+		},
+		"vendors": ["Ubisoft"]
 	},
 	{
 		"archived": false,
