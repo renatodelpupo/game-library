@@ -1138,5 +1138,2045 @@
 			"SWITCH": "https://www.nintendo.com/pt-br/store/products/young-souls-switch/"
 		},
 		"vendors": ["eShop", "Steam"]
+	},
+	{
+		"country": "BR",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "171",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1269370/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1269370"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "BR",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "4 The Elements",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2081090/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2081090"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Amnesia: A Machine for Pigs",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/239200/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/239200"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Amnesia: The Dark Descent",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/57300/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/57300"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "ARK: Survival Evolved",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/346110"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "ARK: Survival Of The Fittest",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/407530/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/407530"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Back to Bed",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/308040/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/308040"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Banana Hell",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1260130/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1260130"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Battlestar Galactica Deadlock",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/544610/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/544610"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Beholder",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/475550/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/475550"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Black Desert",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/582660"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Brawlhalla",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/291550"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Brütal Legend",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/225260/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/225260"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Burnout Paradise: The Ultimate Box",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/24740/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/24740"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Call of Juarez Gunslinger",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/204450/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/204450"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Capcom Arcade Stadium",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1515950/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1515950"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Command & Conquer: Red Alert 3 - Uprising",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/24800/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/24800"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Company of Heroes 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/231430/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/231430"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Counter-Strike",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/10/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/10"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Counter-Strike 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/730"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Counter-Strike: Condition Zero",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/80/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/80"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Counter-Strike: Source",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/240/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/240"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Crusader Kings II",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/203770/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/203770"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Crysis 2 Maximum Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/108800/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/108800"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Cyberhunt",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/636150/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/636150"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Dead Space (2008)",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/17470/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/17470"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Deiland",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/760620/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/760620"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Desktop Dungeons",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/226620/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/226620"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Despotism 3k",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/699920/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/699920"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Die Young: Prologue",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/973000/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/973000"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "DiRT 3 Complete Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/321040/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/321040"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "DISTRAINT: Deluxe Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/395170/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/395170"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Drawful 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/442070/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/442070"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Drones, The Human Condition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/556130/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/556130"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Estranged: The Departure",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/582890/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/582890"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Evolvation",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/510840/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/510840"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "F1 2015",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/286570/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/286570"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Fallout",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/38400/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/38400"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "For Honor",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/304390/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/304390"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "GameGuru Classic",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/266310/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/266310"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "GOAT OF DUTY",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/555000/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/555000"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "GRID",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/12750/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/12750"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Hacknet",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/365450/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/365450"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Half-Life",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/70"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Headsnatchers",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/797410/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/797410"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Homefront",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/55100/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/55100"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Hue",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/383270/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/383270"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "I’m not a Monster",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/826600/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/826600"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Injustice: Gods Among Us Ultimate Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/242700/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/242700"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Insurgency",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/222880/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/222880"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Jagged Alliance Gold",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/283270/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/283270"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Josh Journey: Darkness Totems",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1383280/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1383280"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "KEO",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1424910/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1424910"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Kind Heart Defenders",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2170490/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2170490"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Kingdom: Classic",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/368230/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/368230"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Knightfall: A Daring Journey",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1911390/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1911390"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Lara Croft and the Temple of Osiris",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/289690/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/289690"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Layers of Fear (2016)",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/391720/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/391720"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Left 4 Dead 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/550"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "LEGO® The Hobbit™",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/285160/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/285160"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "LEGO® The Lord of the Rings™",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/214510/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/214510"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "LIMBO",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/48000/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/48000"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Mafia",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/40990/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/40990"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Metro 2033",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/43110/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/43110"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Metro: Last Light Complete Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/43160/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/43160"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Mido and Di",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1691560/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1691560"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Mini Words",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158290/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1158290"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Minion Masters",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/489520/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/489520"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Mirage: Arcane Warfare",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/368420/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/368420"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Mirror's Edge",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/17410/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/17410"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Monaco",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/113020/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/113020"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Murderous Pursuits",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/638070/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/638070"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Mussoumano: Ataque dos Haters",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/407050/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/407050"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Ninja Stealth",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/485450/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/485450"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Nova Odessa - The Strange Tower",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1550100/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1550100"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Oddworld: Abe's Oddysee",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/15700/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/15700"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Orwell",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/491950/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/491950"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Outlast",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/238320/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/238320"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "PAYDAY 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/218620"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Planes, Bullets and Vodka",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/562360/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/562360"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "POLE",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1646730/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1646730"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Portal 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/620"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Press Any Button",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1448030/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1448030"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Psychonauts",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/3830/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/3830"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "RaceRoom Racing Experience ",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/211500/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/211500"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Razortron 2000",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/539720/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/539720"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Rock 'N' Roll Defense",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/438480/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/438480"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Royal Revolt II",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1571190/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1571190"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Satellite Reign",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/268870/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/268870"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Shadow Warrior",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/233130/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/233130"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Shadowrun Returns",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/234650/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/234650"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Shapeshooter",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1143900/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1143900"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Sid Meier's Civilization III: Complete",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/3910/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/3910"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Skatemasta Tcheco",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/619320/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/619320"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Sleeping Dogs: Definitive Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/307690/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/307690"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "SLUDGE LIFE",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144770/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1144770"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Spec Ops: The Line",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/50300/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/50300"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "SteamWorld Dig 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/571310/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/571310"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Super Mombo Quest",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262040/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1262040"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Swords and Soldiers HD",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/63500/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/63500"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Syberia",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/46500/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/46500"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Syberia 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/46510/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/46510"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Team Fortress 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/440"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Tell Me Why",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1180660/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1180660"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "The Black Knight",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2226440/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/2226440"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "The Flame in the Flood",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/318600/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/318600"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "The Walking Dead",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/207610/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/207610"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Titan Quest Anniversary Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/475150/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/475150"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Tomb Raider",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/203160"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Toren",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/320820/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/320820"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Tropicalia",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1375760/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1375760"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Tupã",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/664630/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/664630"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Turbo Pug DX",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/513780/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/513780"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Ukko & Guará: Stellarbound",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1961490/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1961490"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Unreal Gold",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/13250/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/13250"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Viscera Cleanup Detail: Shadow Warrior",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/255520/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/255520"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Warhammer 40,000: Gladius - Relics of War",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/489630/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/489630"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/55150/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/55150"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Warhammer: Vermintide 2",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/552500/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/552500"
+		},
+		"vendors": ["Steam"]
+	},
+	{
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"hide": false,
+		"name": "Yet Another Zombie Defense",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/270550/header.jpg",
+		"url": {
+			"PC": "https://store.steampowered.com/app/270550"
+		},
+		"vendors": ["Steam"]
 	}
 ]
