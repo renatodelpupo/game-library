@@ -8,7 +8,6 @@ export type Game = {
 	country: string;
 	developer: string;
 	favorite: boolean;
-	hide: boolean;
 	name: string;
 	platformsAvailable: Array<string>;
 	players: number;

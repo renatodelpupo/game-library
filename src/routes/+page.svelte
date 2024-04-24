@@ -5,7 +5,7 @@
 	import type { Game } from '../lib/types';
 
 	const formatGamesList = (gameList: Game[]) => {
-		return gameList.filter(({ hide }) => !hide).sort((a, b) => a.name.localeCompare(b.name));
+		return gameList.sort((a, b) => a.name.localeCompare(b.name));
 	};
 
 	$: gamesToDisplay = [];
