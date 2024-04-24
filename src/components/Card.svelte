@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Country, Game } from '../lib/types';
+	import type { Country, Game, PlatformEnum } from '../lib/types';
 
 	import countries from '../api/countries.json';
 
@@ -10,6 +10,8 @@
 	const country: Country = countries[game.country as keyof typeof countries];
 	const playersCount: string = `${game.players > 1 ? '1-' : ''}${game.players}`;
 	const playersLabel: string = `Up to ${game.players} player${game.players > 1 ? 's' : ''}.`;
+
+	const isPurchased = (platform: PlatformEnum) => game.purchased?.includes(platform);
 </script>
 
 <div class="container">
@@ -38,12 +40,9 @@
 		{/if}
 
 		<div class="platform-list">
-			{#each game.platformsAvailable as platformAvailable}
-				<a href={game.url?.[platformAvailable]} target="_blank" title="Go to store page">
-					<PlatformFlag
-						name={platformAvailable}
-						purchased={!!game.purchased?.includes(platformAvailable)}
-					/>
+			{#each game.platformsAvailable as platform}
+				<a href={game.url?.[platform]} target="_blank" title="Go to store page">
+					<PlatformFlag name={platform} purchased={isPurchased(platform)} />
 				</a>
 			{/each}
 		</div>
