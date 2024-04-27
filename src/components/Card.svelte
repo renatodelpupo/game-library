@@ -22,15 +22,19 @@
 	{/if}
 
 	<div class="content">
-		<div class="name-wrapper">
-			<h2 class="game-name">{game.name}</h2>
+		<div>
+			<div class="name-wrapper">
+				<h2 class="game-name">{game.name}</h2>
 
-			{#if game?.players > 0}
-				<span aria-label={playersLabel} class="players" title={playersLabel}>
-					({playersCount})
-					<span aria-hidden="true">👥</span>
-				</span>
-			{/if}
+				{#if game?.players > 0}
+					<span aria-label={playersLabel} class="players" title={playersLabel}>
+						({playersCount})
+						<span aria-hidden="true">👥</span>
+					</span>
+				{/if}
+			</div>
+
+			<span class="game-developer">{game.developer}</span>
 		</div>
 
 		{#if country}
@@ -80,6 +84,11 @@
 		top: 0.5rem;
 	}
 
+	.game-developer {
+		display: flex;
+		margin-top: 0.5rem;
+	}
+
 	.game-name {
 		margin: 0;
 	}
@@ -100,7 +109,6 @@
 		column-gap: 8px;
 		display: flex;
 		flex-wrap: wrap;
-		grid-column: span 2;
 	}
 
 	.platform-list {
