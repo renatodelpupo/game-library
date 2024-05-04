@@ -1,5 +1,22 @@
 [
 	{
+		"archived": true,
+		"country": "BR",
+		"developer": "Cadabra Games",
+		"favorite": false,
+		"name": "Adore",
+		"platformsAvailable": ["PC"],
+		"players": 1,
+		"purchased": [],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1074620/header.jpg?t=1700164396",
+		"url": {
+			"PC": "https://store.steampowered.com/app/1074620/Adore/"
+		},
+		"vendors": []
+	},
+	{
 		"archived": false,
 		"country": "",
 		"developer": "Merge Games, Jankenteam",
@@ -2044,6 +2061,23 @@
 		"vendors": ["Steam"]
 	},
 	{
+		"archived": true,
+		"country": "",
+		"developer": "",
+		"favorite": false,
+		"name": "LEGO® Star Wars™ III - The Clone Wars™",
+		"platformsAvailable": ["PC"],
+		"players": 0,
+		"purchased": ["PC"],
+		"stars": 0,
+		"status": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/32510/header.jpg?t=1699053866",
+		"url": {
+			"PC": "https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/"
+		},
+		"vendors": ["GOG"]
+	},
+	{
 		"archived": false,
 		"country": "",
 		"developer": "",
@@ -2585,7 +2619,7 @@
 		"url": {
 			"PC": "https://store.steampowered.com/app/203160"
 		},
-		"vendors": ["Steam"]
+		"vendors": ["GOG", "Steam"]
 	},
 	{
 		"archived": true,
