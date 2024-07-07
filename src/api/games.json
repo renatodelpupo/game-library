@@ -245,8 +245,8 @@
 	},
 	{
 		"archived": true,
-		"country": "",
-		"developer": "",
+		"country": "BR",
+		"developer": "Minimol Games",
 		"favorite": false,
 		"name": "Chess Knights: Viking Lands",
 		"platformsAvailable": ["SWITCH"],
@@ -1197,7 +1197,7 @@
 		"players": 4,
 		"purchased": ["PC"],
 		"stars": 4,
-		"status": "not-started-stopped",
+		"status": "in-progress",
 		"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212480/header.jpg",
 		"url": {
 			"PC": "https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/"
