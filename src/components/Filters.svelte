@@ -3,7 +3,7 @@
 	import countries from '../api/countries.json';
 	import games from '../api/games.json';
 	import platforms from '../api/platforms.json';
-	import type { Option } from '../lib/types';
+	import type { Option } from '$lib/types';
 	import Checkbox from './Checkbox.svelte';
 	import SelectBox from './SelectBox.svelte';
 

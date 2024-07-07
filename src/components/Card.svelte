@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Country, Game, PlatformEnum } from '../lib/types';
+	import type { Country, Game, PlatformEnum } from '$lib/types';
 
 	import countries from '../api/countries.json';
 

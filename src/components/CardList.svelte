@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Game } from '../lib/types';
+	import type { Game } from '$lib/types';
 
 	import Card from './Card.svelte';
 

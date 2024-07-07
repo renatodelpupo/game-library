@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Option } from '../lib/types';
+	import type { Option } from '$lib/types';
 
 	export let options: Option[] = [];
 	export let selectedOption: string = '';

@@ -1,8 +1,7 @@
 <script lang="ts">
-	import games from '../api/games.json';
 	import CardList from '../components/CardList.svelte';
 	import Filters from '../components/Filters.svelte';
-	import type { Game } from '../lib/types';
+	import type { Game } from '$lib/types';
 
 	const formatGamesList = (gameList: Game[]) => {
 		return gameList.sort((a, b) => a.name.localeCompare(b.name));

@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Platform, PlatformEnum } from '../lib/types';
+	import type { Platform, PlatformEnum } from '$lib/types';
 
 	import platforms from '../api/platforms.json';
 
