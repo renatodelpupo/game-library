@@ -7,7 +7,7 @@
 		return gameList.sort((a, b) => a.name.localeCompare(b.name));
 	};
 
-	$: gamesToDisplay = [];
+	let gamesToDisplay: Game[] = [];
 
 	const handleDisplayedGamesUpdate = (event: any) => {
 		gamesToDisplay = formatGamesList(event.detail.gamesToDisplay);

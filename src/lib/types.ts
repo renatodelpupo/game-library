@@ -9,14 +9,18 @@ export type Game = {
 	developer: string;
 	favorite: boolean;
 	name: string;
-	platformsAvailable: Array<string>;
+	platformsAvailable: PlatformEnum[];
 	players: number;
 	purchased: Array<string>;
 	stars: number;
 	status: string;
 	thumbnail: string;
-	url: object;
+	url: GameUrl;
 	vendors: Array<string>;
+};
+
+type GameUrl = {
+	[key in PlatformEnum]: string;
 };
 
 export type Option = {
