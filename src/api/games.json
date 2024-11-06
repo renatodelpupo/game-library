@@ -2349,6 +2349,23 @@
 		},
 		"vendors": ["Steam"]
 	},
+  {
+    "archived": true,
+    "country": "",
+    "developer": "",
+    "favorite": false,
+    "name": "Rise of the Tomb Raider",
+    "platformsAvailable": ["PC"],
+    "players": 0,
+    "purchased": ["PC"],
+    "stars": 0,
+    "status": "",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+    "url": {
+      "PC": "https://store.steampowered.com/app/391220/"
+    },
+    "vendors": ["Epic"]
+  },
 	{
 		"archived": false,
 		"country": "",
@@ -2468,6 +2485,23 @@
 		},
 		"vendors": ["Steam"]
 	},
+  {
+    "archived": true,
+    "country": "",
+    "developer": "",
+    "favorite": false,
+    "name": "Suicide Squad: Kill the Justice League",
+    "platformsAvailable": ["PC"],
+    "players": 0,
+    "purchased": ["PC"],
+    "stars": 0,
+    "status": "",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315210/ss_6cf9f98dcf74e2c228b1cdae3bbd38ca754398d3.600x338.jpg",
+    "url": {
+      "PC": "https://store.steampowered.com/app/315210/"
+    },
+    "vendors": ["Epic"]
+  },
 	{
 		"archived": false,
 		"country": "",
